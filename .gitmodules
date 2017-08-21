@@ -272,7 +272,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "program_options"]
 	path = libs/program_options
-	url = https://github.com/boostorg/program_options.git
+	url = https://github.com/k9webprotection/boostorg-program_options.git
 	fetchRecurseSubmodules = on-demand
 [submodule "detail"]
 	path = libs/detail
