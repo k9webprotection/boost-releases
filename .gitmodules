@@ -44,7 +44,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "config"]
 	path = libs/config
-	url = https://github.com/boostorg/config.git
+	url = git@github.com:k9webprotection/boostorg-config.git
 	fetchRecurseSubmodules = on-demand
 [submodule "log"]
 	path = libs/log
