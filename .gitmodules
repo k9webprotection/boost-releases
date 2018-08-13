@@ -48,7 +48,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "log"]
 	path = libs/log
-	url = https://github.com/boostorg/log.git
+    url=git@github.com:k9webprotection/boostorg-log.git
 	fetchRecurseSubmodules = on-demand
 [submodule "interprocess"]
 	path = libs/interprocess
