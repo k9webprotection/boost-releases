@@ -520,7 +520,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "process"]
 	path = libs/process
-	url = https://github.com/boostorg/process.git
+	url = git@github.com:toonetown/boostorg-process.git
 	fetchRecurseSubmodules = on-demand
 [submodule "stacktrace"]
 	path = libs/stacktrace
