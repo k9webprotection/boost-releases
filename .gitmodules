@@ -124,7 +124,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "random"]
 	path = libs/random
-	url = https://github.com/boostorg/random.git
+	url = git@github.com:toonetown/boostorg-random.git
 	fetchRecurseSubmodules = on-demand
 [submodule "serialization"]
 	path = libs/serialization
