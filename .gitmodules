@@ -645,7 +645,7 @@
 	branch = .
 [submodule "process"]
 	path = libs/process
-	url = https://github.com/boostorg/process.git
+	url = https://github.com/toonetown/boostorg-process.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "stacktrace"]
